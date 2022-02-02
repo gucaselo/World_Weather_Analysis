@@ -1,0 +1,58 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Hermanus,ZA,59.81,scattered clouds,-34.4187,19.2345,Misty Waves Boutique Hotel
+15,Ponta Delgada,PT,58.5,scattered clouds,37.7333,-25.6667,Vila Nova Hotel
+17,Punta Arenas,CL,59.11,clear sky,-53.15,-70.9167,Hotel Hain
+39,Castro,BR,59.05,overcast clouds,-24.7911,-50.0119,CHACARA BAILLY
+44,Bilma,NE,53.35,clear sky,18.6853,12.9164,Expeditions Ténére voyages
+74,Ushuaia,AR,51.46,scattered clouds,-54.8,-68.3,Albatross Hotel
+99,Lebu,CL,57.7,clear sky,-37.6167,-73.65,Hostal Las Lilas
+104,Lompoc,US,58.93,clear sky,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
+159,Joshimath,IN,51.55,clear sky,30.5667,79.5667,Shivalik Camps & Resort
+164,Bredasdorp,ZA,59.29,broken clouds,-34.5322,20.0403,Bredasdorp Country Manor
+167,San Patricio,US,52.83,clear sky,28.017,-97.5169,"Motel 6 Sinton, TX"
+169,Letterkenny,IE,51.4,broken clouds,54.95,-7.7333,Mount Errigal Hotel
+183,Los Llanos De Aridane,ES,55.15,clear sky,28.6585,-17.9182,Valle Aridane
+198,San Jose,US,58.21,smoke,37.3394,-121.895,The Westin San Jose
+206,Ancud,CL,56.73,clear sky,-41.8697,-73.8203,Hotel Arena Gruesa
+209,Constitucion,CL,56.39,clear sky,-35.3333,-72.4167,Hotel Boutique Las Azucenas
+210,Ridgecrest,US,51.15,scattered clouds,35.6225,-117.6709,SpringHill Suites by Marriott Ridgecrest
+216,Saint George,US,52.27,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+227,Saldanha,ZA,57.25,clear sky,-33.0117,17.9442,Blue Bay Lodge
+234,Villazon,BO,50.31,overcast clouds,-22.0866,-65.5942,La Candelaria
+238,Sao Francisco De Paula,BR,57.69,broken clouds,-29.4481,-50.5836,Hotel Village da Serra
+250,Laguna,US,55.31,clear sky,38.421,-121.4238,"Holiday Inn Express & Suites Elk Grove Central - Hwy 99, an IHG Hotel"
+255,Asilah,MA,58.86,scattered clouds,35.465,-6.0348,Hotel Zelis
+256,Half Moon Bay,US,58.24,clear sky,37.4636,-122.4286,"The Ritz-Carlton, Half Moon Bay"
+261,Lagoa,PT,57.9,few clouds,39.05,-27.9833,Casa Das Faias
+278,Buraydah,SA,50.45,overcast clouds,26.326,43.975,فندق راحة السلام
+291,Asfi,MA,58.68,scattered clouds,32.2994,-9.2372,Hôtel Abda
+295,Kirkwall,GB,53.94,overcast clouds,58.9848,-2.9587,Kirkwall Hotel
+304,Galveston,US,52.14,clear sky,29.3669,-94.9669,Comfort Inn & Suites Texas City
+321,Ribeira Grande,PT,58.33,scattered clouds,38.5167,-28.7,Quinta da Meia Eira
+323,Jalu,LY,50.13,broken clouds,29.0331,21.5482,صاحبة الفخامة
+332,Yulin,CN,59.38,overcast clouds,22.6333,110.15,罗弟天海大厦
+348,Ginda,IN,52.7,clear sky,30.6945,78.4932,Sunil Bisht
+353,Pokhara,NP,55.35,clear sky,28.2333,83.9833,Butterfly Lodge
+361,Aljezur,PT,50.23,clear sky,37.3191,-8.8033,Amazigh Hostel
+374,Rocha,UY,58.57,clear sky,-34.4833,-54.3333,Hotel Arrarte
+400,Lerwick,GB,50.0,overcast clouds,60.1545,-1.1494,The Lerwick Hotel
+424,Tateyama,JP,50.27,overcast clouds,34.9833,139.8667,Tateyama Seaside Hotel
+428,Mulege,MX,59.18,clear sky,26.8833,-111.9833,Casa Granada
+429,Ngozi,BI,58.21,overcast clouds,-2.9075,29.8306,Ruhuka Hotel
+444,Faya,SA,50.52,scattered clouds,18.3851,42.4509,املاك خالد الشعشوع
+446,Kulachi,PK,56.89,clear sky,31.9286,70.4592,Technical Zafran Mobile Zon kulachi
+484,Dunmore East,IE,53.78,overcast clouds,52.1514,-6.9861,The Strand Inn
+497,Marrakesh,MA,57.27,clear sky,31.6315,-8.0083,Novotel Marrakech Hivernage
+535,Liverpool,GB,53.76,overcast clouds,53.4106,-2.9779,Premier Inn Liverpool City Centre (Moorfields) hotel
+541,Pacific Grove,US,57.27,clear sky,36.6177,-121.9166,Lovers Point Inn
+545,Rabo De Peixe,PT,57.27,scattered clouds,37.8,-25.5833,Quinta das Giestas
+551,San Quintin,MX,59.16,scattered clouds,30.4833,-115.95,Don Eddie's Landing
+559,Moussoro,TD,57.2,few clouds,13.6408,16.4901,Hôtel Salama
+569,Atherton,GB,53.29,overcast clouds,53.5237,-2.4935,The Lion Inn
+578,Camacha,PT,57.96,scattered clouds,33.0833,-16.3333,Hotel Porto Santo & Spa
+603,Scarborough,GB,53.51,broken clouds,54.2797,-0.4044,The Grand Hotel Scarborough
+604,Inverness,GB,55.8,few clouds,57.4791,-4.224,Glen Mhor Hotel & Apartments
+636,Sultanpur,IN,57.6,clear sky,26.2667,82.0667,OYO 49568 Vrindavan Guest House
+642,Darnah,LY,52.47,clear sky,32.767,22.6367,فندق الفردوس
+655,Vila Franca Do Campo,PT,58.19,scattered clouds,37.7167,-25.4333,Pestana Bahia Praia
+682,Hurghada,EG,51.84,clear sky,27.2574,33.8129,Sea Star Beau Rivage Hotel
